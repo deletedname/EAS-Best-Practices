@@ -21,3 +21,5 @@ TS-EAS welcomes contributions and feedback from users of the standards it manage
 * Reporting an issue via SAA: [https://www2.archivists.org/standards/TS-EAS-report-an-issue](https://www2.archivists.org/standards/TS-EAS-report-an-issue)
 * TS-EAS on GitHub: [https://github.com/SAA-SDT](https://github.com/SAA-SDT)
 * Mailing list: [EAD@LISTSERV.LOC.GOV](mailto:EAD@LISTSERV.LOC.GOV)
+
+{: .text-blue-200	}
