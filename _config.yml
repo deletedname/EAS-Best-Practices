@@ -1,5 +1,5 @@
 remote_theme: just-the-docs/just-the-docs
-color-scheme: neutral
+color_scheme: neutral
 description: Encoded Archival Context Best Practice Guide is a resource that describes and provides explanations and examples of complex encodings and concepts in Encoded Archival Context - Corporate Bodies, Persons and Families (EAC-CPF), Encoded Archival Description (EAD), and Encoded Archival Context - Functions (EAC-F) (to come).
 logo: "/images/SAAHoriz-Blue_200.png"
 nav_external_links:
