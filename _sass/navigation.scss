@@ -6,7 +6,6 @@
   margin-top: 0;
   margin-bottom: 0;
   list-style: none;
-  color: $white;
 
   .nav-list-item {
     @include fs-4;
@@ -102,6 +101,7 @@
       display: none;
       padding-left: $sp-3;
       list-style: none;
+      color: $nav-child-link-color;
 
       .nav-list-item {
         position: relative;
